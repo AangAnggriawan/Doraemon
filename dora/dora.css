@@ -1,0 +1,98 @@
+.kepala {
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    border-radius: 50%;
+    position: relative;
+    margin: auto;
+    margin-top: 100px;
+
+    
+}
+.penglihatan {
+    margin-left: 65px;
+    margin-top: 30px;
+    position: absolute;
+    width: 300px;
+    z-index: 10;
+}
+.mulut {
+    position: absolute;
+
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid;
+    margin-left: 23px;
+    margin-top: 50px;
+}
+.bibir {
+    width: 200px;
+    height: 50px;
+    background-color: black;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 25px;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+    
+}
+.bibir1 {
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 75px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.mata {
+    width: 80px;
+    height: 80px;
+    border: 1px solid;
+    border-radius: 50%;
+    background-color: white;
+    display: inline-block;
+    border: 1px solid;
+}
+.bulat {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    z-index: 11;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -55px;
+    margin-left: 58px;
+}
+.bulat1 {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    z-index: 11;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -55px;
+    margin-left: 90px;
+}
+.hidung {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    z-index: 11;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -30px;
+    margin-left: 60px;
+}
+
+.mata1 {
+    width: 80px;
+    height: 80px;
+    border: 1px solid;
+    border-radius: 50%;
+    background-color: white;
+    display: inline-block;
+}
